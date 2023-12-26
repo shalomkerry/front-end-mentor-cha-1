@@ -26,7 +26,7 @@ body{
   width:90px;
   height:30px;
   border-radius:5px;
-  padding:5px 10px;
+  padding:4px 10px;
   font-weight:bold;
   margin-top:20px;
   margin-bottom:20px;
@@ -58,10 +58,13 @@ border-radius:10px;
   cursor:pointer;
   color:#f4d04e;
 }
-.text,h2:hover || .container{
-  box-shadow:10px 9px 0px 3px rgba(0,0,0,0.91);;
+.container:hover{
+  box-shadow:10px 9px 0px 3px rgba(0,0,0,1);
 }
 .texts .op{
   opacity:0.7;
   margin-bottom:20px;
+}
+p{
+  font-size:16px;
 }
