@@ -18,7 +18,7 @@ body{
   margin: 100px auto auto;
   padding:20px;
   border-radius:20px;
-  box-shadow:7px 9px 5px 4px rgba(0,0,0,1);
+box-shadow: 15px 10px 0px 0px rgba(0,0,0,1);
 }
 .learning{
   border:#f4d04e solid 2px;
